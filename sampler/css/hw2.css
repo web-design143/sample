@@ -1,0 +1,29 @@
+	h1{
+	color : #489989 ;
+	background-color: #95E8D7 ;
+	border: 2px solid black ;
+   background-size: 50% ;
+   text-align: center ; 
+}
+div{
+	color : #28403B;
+}
+h2{
+	color : #592A0F;
+	background-color: #D6D0C1 ;
+	background-size: 35% ; 
+}
+ul{
+	color : #590F45;
+	font-style: italic;
+}
+ol{
+	color: 73544D;
+}
+a{
+	font-variant: small-caps;
+}
+img{
+	border: 3px solid black ;
+	max-height: 50% ;
+}
